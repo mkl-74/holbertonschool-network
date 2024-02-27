@@ -1,3 +1,3 @@
-#!/bin/bash
+#!/bin/env bash
 #"listening tcp and udp port"
 netstat -l
