@@ -1,4 +1,3 @@
 #!/bin/bash
-echo "listening tcp and udp port"
+#"listening tcp and udp port"
 netstat -l
-done
