@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "listening tcp and udp port"
+netstat -ao
+done
